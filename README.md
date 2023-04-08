@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello, I'm Jonathan Zach! 👋
 
-<!--
-**JonaZach/JonaZach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🙋‍♂️
 
-Here are some ideas to get you started:
+I'm a full-stack developer with 2.5 years of hands-on experience building web applications using React, Node.js, TypeScript, and MySQL. I'm also familiar with AWS, Jenkins, Docker, and Kubernetes, and I'm always eager to learn new technologies and tools. I'm passionate about building high-quality, scalable software that solves real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills 🛠️
+
+- JavaScript/TypeScript 📜
+- React ⚛️
+- Node.js/Express.js 🚀
+- MySQL/MongoDB 🗄️
+- AWS (EC2, S3, RDS, Lambda) ☁️
+- Jenkins 🚦
+- Docker/Kubernetes 🐳
+
+## Personal Interests 🎭
+
+When I'm not coding, I love playing basketball 🏀, chess ♟️, traveling 🌎, and surfing 🌊. I find that these hobbies help me stay focused and energized, and they give me a chance to recharge my batteries so that I can approach my work with renewed creativity and enthusiasm.
+
+## Contact Information 📞
+
+If you'd like to get in touch with me, feel free to connect with me on LinkedIn: https://www.linkedin.com/in/jonathanzach

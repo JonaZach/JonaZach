@@ -2,7 +2,7 @@
 
 ## About Me 🙋‍♂️
 
-I'm a full-stack developer with 2.5 years of hands-on experience building web applications using React, Node.js, TypeScript, and MySQL. I'm also familiar with AWS, Jenkins, Docker, and Kubernetes, and I'm always eager to learn new technologies and tools. I'm passionate about building high-quality, scalable software that solves real-world problems.
+I'm a full-stack developer with 4 years of hands-on experience building web applications using React, Node.js, TypeScript, and MySQL. I'm also familiar with AWS, Jenkins, Docker, and Kubernetes, and I'm always eager to learn new technologies and tools. I'm passionate about building high-quality, scalable software that solves real-world problems.
 
 ## Technical Skills 🛠️
 
